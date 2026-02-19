@@ -1,0 +1,10 @@
+﻿{
+  "model_source": {
+    "type": "<MODEL_SOURCE_TYPE>",
+    "repo_id": "<MODEL_REPO_ID>"
+  },
+  "options": {
+    "include_layers": true,
+    "include_dependencies": true
+  }
+}
